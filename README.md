@@ -1,9 +1,4 @@
-# chapter-project-repository-template
-
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Chapter Challenge Name]
+# Creating & Analysing Open Data About Egypt
 
 
 ## Contribution Guidelines
