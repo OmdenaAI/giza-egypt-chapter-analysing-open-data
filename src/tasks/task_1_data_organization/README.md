@@ -17,7 +17,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 - [MENA Data](https://menadata.net/index.php/) - Add description here
 
-- [Open Data For Africa](https://egypt.opendataforafrica.org/) - Add description here
+- [Central Agency for Public Mobilization and Statistics](https://www.capmas.gov.eg/#) - Main Egyptian Governmental Source
 
 ### Single Datasets
 
