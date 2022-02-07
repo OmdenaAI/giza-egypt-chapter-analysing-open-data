@@ -18,6 +18,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [MENA Data](https://menadata.net/index.php/) - Add description here
 
 - [Central Agency for Public Mobilization and Statistics](https://www.capmas.gov.eg/#) - Main Egyptian Governmental Source
+- [ Egypt Population from worldometer website](https://www.worldometers.info/world-population/egypt-population/) - Statistics and Forecasting for Population in Egypt
 
 ### Single Datasets
 
