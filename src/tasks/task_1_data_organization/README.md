@@ -31,3 +31,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [QCRI Dialectal Arabic Resources](https://alt.qcri.org/resources/da_resources//) - Add description here
 
 - [Pyramids of Ancient Egypt](https://www.kaggle.com/lsind18/egyptianpyramids) - A combined list of 62 Ancient Egyptian pyramids starting from 3th Dynasty.
+
+- [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt. 
