@@ -37,3 +37,4 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt. 
 
 - [Egypt - Population Density](https://data.world/worldpop/904bdd79-99f5-410f-8a25-386e202a5580) - Population density data from 2016-2020 (Geotiff and ASCII XYZ format).
+- [Egypt - Kaggle 2021 Survey](https://fcibuedu-my.sharepoint.com/:x:/g/personal/mohamed192494_fci_bu_edu_eg/EQIq-8mNePZDuWDXx8qnOmkB9rKLlvJ05AYjzTfcYPtwWw?e=w2O46r), For full data: [Link](https://www.kaggle.com/c/kaggle-survey-2021/data)
