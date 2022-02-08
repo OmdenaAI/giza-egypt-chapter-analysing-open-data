@@ -22,6 +22,8 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [ Egypt Population from worldometer website](https://www.worldometers.info/world-population/egypt-population/) - Statistics and Forecasting for Population in Egypt
 
 - [ Egypt Data from Our World in Data website](https://ourworldindata.org/country/egypt) - Different data Fields for long periods
+
+- [Egypt data from Humanitarian Data Exchange](https://data.humdata.org/group/egy) - Various data about Egypt across distinct fields and years 
 ### Single Datasets
 
 - [Temperature in Central North of Egypt](https://figshare.com/articles/dataset/Central_North_of_Egypt_CNE_Maximum_and_Minimum_Temperature_Gridded_Datasets/7504232) - Add description here
