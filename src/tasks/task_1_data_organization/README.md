@@ -29,3 +29,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Hepatitis C Virus for Egyptian Patients](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients/) - Add description here
 
 - [QCRI Dialectal Arabic Resources](https://alt.qcri.org/resources/da_resources//) - Add description here
+
+- [Pyramids of Ancient Egypt](https://www.kaggle.com/lsind18/egyptianpyramids) - A combined list of 62 Ancient Egyptian pyramids starting from 3th Dynasty.
