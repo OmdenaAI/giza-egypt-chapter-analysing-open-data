@@ -33,3 +33,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Pyramids of Ancient Egypt](https://www.kaggle.com/lsind18/egyptianpyramids) - A combined list of 62 Ancient Egyptian pyramids starting from 3th Dynasty.
 
 - [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt. 
+
+- [Egypt - Population Density](https://data.world/worldpop/904bdd79-99f5-410f-8a25-386e202a5580) - Population density data from 2016-2020 (Geotiff and ASCII XYZ format).
