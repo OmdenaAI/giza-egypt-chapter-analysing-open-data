@@ -57,9 +57,6 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 ### Economic Datasets
 
-- [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt.
- 
-### Egypt - Conflict Events
+- [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt. 
 
-- [Political Violence Events and Fatalities](https://data.humdata.org/dataset/541c7c35-c520-4d3e-9889-f2cae6ea11cd/resource/2cba1410-2b5d-4ae9-b494-02327c3a3483/download/egypt_political_violence_events_and_fatalities_by_month-year.xlsx) - A weekly dataset providing the total number of reported political violence, civilian-targeting, and demonstration events in Egypt. Provided [here](https://data.humdata.org/dataset/egypt-acled-conflict-data)
-
+- [World Bank - Egypt Data](https://data.worldbank.org/country/egypt-arab-rep) - This website contain financial and statistical data about egypt
