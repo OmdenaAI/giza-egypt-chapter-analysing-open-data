@@ -26,7 +26,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [MENA Data](https://menadata.net/index.php/) - The platform hosts numerous datasets related to the countries in the Middle-East and 
                                                  Northern Africa.
 
-- [Central Agency for Public Mobilization and Statistics](https://www.capmas.gov.eg/#) - Main Egyptian Governmental Source
+- [Central Agency for Public Mobilization and Statistics](https://www.capmas.gov.eg/#) - Main Egyptian Governmental Source.
 
 - [Egypt Population from worldometer website](https://www.worldometers.info/world-population/egypt-population/) - Statistics and Forecasting for Population in Egypt
 
@@ -42,13 +42,13 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 ### Healthcare Datasets
 
-- [Hepatitis C Virus for Egyptian Patients](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients/) - Add description here
+- [Hepatitis C Virus for Egyptian Patients](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients/) - Egyptian patients who underwent treatment dosages for HCV about 18 months.
 
 ### Cultural and Linguistic Datasets
 
-- [QCRI Dialectal Arabic Resources](https://alt.qcri.org/resources/da_resources//) - Add description here
+- [QCRI Dialectal Arabic Resources](https://alt.qcri.org/resources/da_resources//) - Includes a list of resources for dailectal Arabic.
 
-- [Pyramids of Ancient Egypt](https://www.kaggle.com/lsind18/egyptianpyramids) - A combined list of 62 Ancient Egyptian pyramids starting from 3th Dynasty.
+- [Pyramids of Ancient Egypt](https://www.kaggle.com/lsind18/egyptianpyramids) - A combined list of 62 Ancient Egyptian pyramids starting from 3rd Dynasty.
 
 
 ### Population Datasets
