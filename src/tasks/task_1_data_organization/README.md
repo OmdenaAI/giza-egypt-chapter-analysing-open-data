@@ -60,3 +60,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Egypt - Food Prices](https://data.world/wfp/230e991f-3438-4763-8044-e424b5a67bec) - This dataset contains Food Prices data for Egypt. 
 
 - [World Bank - Egypt Data](https://data.worldbank.org/country/egypt-arab-rep) - This website contain financial and statistical data about egypt
+
+- [Egypt - Energy and Mining](https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-egypt-arab-rep) - Dataset about Egypt's Energy access and expenditure.
