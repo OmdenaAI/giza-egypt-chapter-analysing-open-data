@@ -7,7 +7,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Data Organization](#data-organization)
   - [Datasets](#datasets)
     - [Egypt Dataset Repositories](#egypt-dataset-repositories)
-    - [Climate Datasets](#climate-datasets)
+    - [Climate and Other Geographical Datasets](#climate-datasets)
     - [Healthcare Datasets](#healthcare-datasets)
     - [Cultural and Linguistic Datasets](#cultural-and-linguistic-datasets)
     - [Population Datasets](#population-datasets)
@@ -34,8 +34,10 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 - [Egypt data from Humanitarian Data Exchange](https://data.humdata.org/group/egy) - Various data about Egypt across distinct fields and years.
 
+- [Digital Earth Africa](https://explorer.digitalearth.africa/products) -  Digital Earth Africa hosts a repository of Earth observation datasets spanning continental Africa and a set of tools to view and analyse that data.
 
-### Climate Datasets
+
+### Climate and Other Geographical Datasets
 
 - [Temperature in Central North of Egypt](https://figshare.com/articles/dataset/Central_North_of_Egypt_CNE_Maximum_and_Minimum_Temperature_Gridded_Datasets/7504232) - Contains .nc files for data on Temperature.
 
