@@ -1,0 +1,72 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +code +iso2","#adm1 +code +iso","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+3183,HECA,large_airport,"Cairo International Airport",30.12190055847168,31.40559959411621,382,AF,EG,EG-C,Cairo,1,HECA,CAI,,,http://en.wikipedia.org/wiki/Cairo_International_Airport,,51675,2008-06-13T14:30:04+00:00
+3186,HEGN,large_airport,"Hurghada International Airport",27.178300857543945,33.799400329589844,52,AF,EG,EG-BA,Hurghada,1,HEGN,HRG,,,http://en.wikipedia.org/wiki/Hurghada_International_Airport,"Al Ghardaqah, الغردقة",1150,2009-01-14T08:48:20+00:00
+3198,HESH,medium_airport,"Sharm El Sheikh International Airport",27.9773006439,34.3950004578,143,AS,EG,EG-JS,"Sharm el-Sheikh",1,HESH,SSH,,,http://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport,,1050,2010-08-29T21:02:18+00:00
+3191,HELX,large_airport,"Luxor International Airport",25.671,32.7066,294,AF,EG,EG-KN,Luxor,1,HELX,LXR,,,http://en.wikipedia.org/wiki/Luxor_International_Airport,,1050,2017-01-08T13:50:36+00:00
+3178,HEAX,medium_airport,"El Nouzha Airport",31.183900833129883,29.94890022277832,-6,AF,EG,EG-ALX,Alexandria,1,HEAX,ALY,,,http://en.wikipedia.org/wiki/El_Nouzha_Airport,"Alexandria International Airport",875,2008-11-08T14:15:11+00:00
+3180,HEBA,medium_airport,"Borg El Arab International Airport",30.917699813842773,29.696399688720703,177,AF,EG,EG-ALX,Alexandria,1,HEBA,HBE,,,http://en.wikipedia.org/wiki/Borg_El_Arab_Airport,,1050,2008-08-16T06:44:33+00:00
+3199,HESN,medium_airport,"Aswan International Airport",23.9643993378,32.8199996948,662,AF,EG,EG-ASN,Aswan,1,HESN,ASW,,,http://en.wikipedia.org/wiki/Aswan_International_Airport,,1050,2010-08-31T14:14:33+00:00
+3192,HEMA,medium_airport,"Marsa Alam International Airport",25.557100296,34.5836982727,251,AF,EG,EG-BA,"Marsa Alam",1,HEMA,RMF,,http://www.marsa-alam-airport.com,http://en.wikipedia.org/wiki/Marsa_Alam_International_Airport,,875,2014-01-16T08:26:10+00:00
+3181,HEBL,medium_airport,"Abu Simbel Airport",22.375999450699997,31.611700058,616,AF,EG,EG-ASN,"Abu Simbel",1,HEBL,ABS,,,http://en.wikipedia.org/wiki/Abu_Simbel_Airport,,1050,2010-08-31T14:14:09+00:00
+3196,HEPS,medium_airport,"Port Said Airport",31.279399871826172,32.2400016784668,8,AF,EG,EG-SHR,"Port Said",0,HEPS,PSD,,http://en.wikipedia.org/wiki/Port_Said_Airport,http://en.wikipedia.org/wiki/Port_Said_Airport,,275,2008-06-13T14:30:04+00:00
+3200,HETB,medium_airport,"Taba International Airport",29.587799072299998,34.7780990601,2415,AS,EG,EG-SIN,Taba,0,HETB,TCP,,,http://en.wikipedia.org/wiki/Taba_International_Airport,,275,2010-08-31T14:17:47+00:00
+3193,HEMM,medium_airport,"Mersa Matruh Airport",31.3253993988,27.221700668300002,94,AF,EG,EG-MT,"Mersa Matruh",0,HEMM,MUH,,,http://en.wikipedia.org/wiki/Mersa_Matruh_Airport,,275,2010-08-31T14:17:21+00:00
+3184,HECW,medium_airport,"Cairo West Airport",30.116399765,30.915399551399997,550,AF,EG,EG-GZ,"El Cairo",0,HECW,CWE,,,,,250,2010-12-22T12:16:46+00:00
+2376,HE36,small_airport,"Bir Jifjafah Airport",30.407100677499997,33.1540985107,1056,AS,EG,EG-SIN,,0,,,,,http://en.wikipedia.org/wiki/Bir_Gifgafa_Airfield,"Bir Gifgafa Airfield",50,2012-04-22T13:28:34+00:00
+3187,HEGO,small_airport,"El Gouna Airport",27.366899490356445,33.6682014465332,56,AF,EG,EG-BA,"El Gouna",0,HEGO,,,,,,50,2009-08-31T19:22:54+00:00
+3176,HEAR,medium_airport,"El Arish International Airport",31.073299408,33.8358001709,121,AS,EG,EG-SIN,"El Arish",1,HEAR,AAC,,,http://en.wikipedia.org/wiki/El_Arish_International_Airport,,875,2010-12-22T12:14:50+00:00
+3179,HEAZ,medium_airport,"Almaza Air Force Base",30.091800689697266,31.360000610351562,300,AF,EG,EG-C,Cairo,0,HEAZ,,,,,,250,2008-08-16T06:39:37+00:00
+3189,HEGS,medium_airport,"Jiyanklis Air Base",30.819799423217773,30.191200256347656,49,AF,EG,EG-BH,Jiyanklis,0,HEGS,,,,,,250,2009-01-14T21:28:59+00:00
+42467,EG-0001,small_airport,"Al Rahmaniyah",31.04330062866211,30.664518356323242,,AF,EG,EG-BH,,0,,,,,,,50,2008-11-08T14:16:56+00:00
+2356,HE13,small_airport,"Wadi Al Jandali Airport",30.04949951171875,31.83970069885254,816,AF,EG,EG-C,,0,,,,,,,50,2008-08-16T07:49:25+00:00
+2372,HE32,small_airport,"Al Mansurah Airport",30.967599868774414,31.434200286865234,13,AF,EG,EG-DK,,0,,,,,,,50,2008-08-16T07:44:18+00:00
+42473,HE15,small_airport,Hulwan,29.822500228881836,31.330900192260742,,AF,EG,EG-GZ,,0,HE15,,,,,,50,2008-11-08T15:35:44+00:00
+42472,EG-0006,small_airport,"Fa'id Air Base",30.33,32.267799,,AF,EG,EG-IS,,0,,,,,,,50,2016-02-10T22:31:13+00:00
+3201,HETR,small_airport,"El Tor Airport",28.208999633789062,33.64550018310547,115,AS,EG,EG-JS,,0,HETR,ELT,,,,,50,2009-08-06T10:56:16+00:00
+42474,HE45,small_airport,"Ras Sudr",29.60300064086914,32.68960189819336,,AS,EG,EG-JS,,0,HE45,,,,,,50,2009-08-06T10:55:25+00:00
+42468,EG-0002,small_airport,"Az Zaqaziq",30.594703674316406,31.66493034362793,,AF,EG,EG-SHR,,0,,,,,,,50,2008-11-08T15:12:44+00:00
+3195,HEOW,small_airport,"Shark El Oweinat International Airport",22.5856990814209,28.71660041809082,859,AF,EG,EG-WAD,,0,HEOW,GSQ,,,,,50,2008-06-13T14:30:04+00:00
+3182,HEBS,medium_airport,"Beni Suef Air Base",29.20829963684082,31.016599655151367,108,AF,EG,EG-BNS,"Beni Suef",0,HEBS,,,,,,50,2009-02-20T18:18:37+00:00
+29895,HEEM,small_airport,"Giza Embaba Airport",30.07469940185547,31.1914005279541,59,AF,EG,EG-C,Cairo,0,HEEM,,,,,,50,2008-08-16T06:38:58+00:00
+42471,HE16,medium_airport,"Birma Air Base",30.836599,30.936001,,AF,EG,EG-GH,Tanta,0,HE16,,,,,,50,2016-02-10T22:30:01+00:00
+3177,HEAT,medium_airport,"Assiut International Airport",27.0464992523,31.0119991302,772,AF,EG,EG-WAD,Assiut,1,HEAT,ATZ,,,http://en.wikipedia.org/wiki/Assiut_Airport,Asyut,975,2010-08-31T14:15:18+00:00
+3197,HESC,medium_airport,"St Catherine International Airport",28.685300827,34.0625,4368,AS,EG,EG-JS,,0,HESC,SKV,,,http://en.wikipedia.org/wiki/St._Catherine_International_Airport,,250,2009-12-11T17:22:44+00:00
+2375,HE35,medium_airport,"Abu Suwayr Air Base",30.57270050048828,32.095298767089844,49,AF,EG,EG-IS,"Abu Suwayr",0,,,,,,,250,2009-01-14T08:49:58+00:00
+2377,HE37,medium_airport,"Bilbeis Air Base",30.394899,31.6014,90,AF,EG,EG-SHR,Bilbeis,0,,,,,http://en.wikipedia.org/wiki/Egyptian_Air_Academy,"Bilbays, Belbeis",250,2016-02-10T22:25:14+00:00
+42469,EG-0003,medium_airport,"Bilbeis 2 Airfield",30.42060089111328,31.67889976501465,,AF,EG,EG-SHR,Bilbeis,0,,,,,,"Bilbays, Belbeis",250,2009-01-13T23:07:48+00:00
+3175,HEAL,medium_airport,"El Alamein International Airport",30.92449951171875,28.46139907836914,143,AF,EG,EG-MT,"El Alamein",0,HEAL,DBB,,,,"Al Alamain, Al Alamayn, العلمين‎",250,2009-01-14T08:55:24+00:00
+3188,HEGR,medium_airport,"El Gora Airport",31.068559,34.129629,324,AF,EG,EG-SIN,"El Gora",0,HEGR,EGH,,,https://en.wikipedia.org/wiki/El_Gora_Airport,,250,2016-02-13T21:34:03+00:00
+2364,HE23,small_airport,"Daraw Airport",24.415800094604492,32.9557991027832,325,AF,EG,EG-ASN,,0,,,,,,,50,2008-08-16T07:46:30+00:00
+2357,HE14,small_airport,"Ras Banas Airport",23.97410011291504,35.46030044555664,100,AF,EG,EG-BA,,0,,,,,,,50,2008-08-16T07:48:22+00:00
+2358,HE17,small_airport,"Bir Abu Rahal Airport",24.994300842285156,33.500999450683594,995,AF,EG,EG-BA,,0,,,,,,,50,2008-08-16T07:46:06+00:00
+2361,HE20,small_airport,"Ras Jimsah New Airport",27.835100173950195,33.52579879760742,20,AF,EG,EG-BA,,0,,,,,,,50,2008-08-16T07:48:32+00:00
+2362,HE21,small_airport,"Ras Shukhayr New Airport",28.19659996032715,33.206298828125,15,AF,EG,EG-BA,,0,,,,,,,50,2008-08-16T07:48:46+00:00
+2378,HE38,small_airport,"Wadi Abu Rish Airport",28.97570037841797,31.69890022277832,1092,AF,EG,EG-BA,,0,,,,,,,50,2008-08-16T07:49:17+00:00
+42475,HE26,small_airport,"Wadi Abu Shihat",26.557218551635742,33.12192916870117,,AF,EG,EG-BA,,0,HE26,,,,,,50,2008-11-08T15:51:36+00:00
+2368,HE28,medium_airport,"Gebel El Basur Air Base",30.540501,30.5602,85,AF,EG,EG-BH,,0,,,,,,,50,2016-02-10T22:32:16+00:00
+3194,HEOC,small_airport,"October Airport",29.8120994568,30.8234004974,807,AF,EG,EG-C,,0,HEOC,,,,,,50,2010-12-22T12:18:57+00:00
+2370,HE30,small_airport,"Kom Awshim Airport",29.554100036621094,30.895099639892578,,AF,EG,EG-FYM,,0,,,,,,,50,2008-08-16T07:47:47+00:00
+2382,HE42,small_airport,"Quwaysina Airport",30.57900047302246,31.129199981689453,33,AF,EG,EG-MN,,0,,,,,,,50,2008-08-16T07:48:13+00:00
+2354,HE11,small_airport,"Badr El Din Airport",29.874399185180664,27.94059944152832,-62,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:44:56+00:00
+2359,HE18,small_airport,"Habata Airport",31.107500076293945,25.45210075378418,670,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:47:25+00:00
+2360,HE19,small_airport,"As Sallum Airport",31.457300186157227,25.283700942993164,85,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:44:47+00:00
+2367,HE27,small_airport,"Uthman Air Base",29.555200576782227,25.589000701904297,460,AF,EG,EG-MT,,0,,,,,,,50,2009-02-18T12:07:54+00:00
+2371,HE31,small_airport,"Malan Frein Airport",29.811100006103516,28.547700881958008,206,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:47:55+00:00
+2373,HE33,small_airport,"Deir El Gill Airport",30.732099533081055,27.01919937133789,740,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:46:43+00:00
+2381,HE41,small_airport,"Misheifa Airport",31.028600692749023,25.85110092163086,740,AF,EG,EG-MT,,0,,,,,,,50,2008-08-16T07:48:03+00:00
+2363,HE22,small_airport,"Baluza Airport",31.000200271606445,32.552799224853516,50,AS,EG,EG-PTS,,0,,,,,,,50,2009-08-06T10:54:33+00:00
+2379,HE39,small_airport,"As Salihiyah Airport",30.79520034790039,32.04410171508789,16,AF,EG,EG-SHR,,0,,,,,,,50,2008-08-16T07:44:35+00:00
+2384,HE46,small_airport,"El Sharqi Airport",30.027299880981445,32.975799560546875,1596,AS,EG,EG-SIN,,0,,,,,,,50,2009-08-06T10:55:00+00:00
+42470,EG-0004,small_airport,"Bir Hasanah",30.194400787353516,33.41279983520508,,AS,EG,EG-SIN,,0,,,,,,,50,2009-08-06T10:55:13+00:00
+3185,HEDK,small_airport,"Dakhla Airport",25.41160011291504,29.00309944152832,613,AF,EG,EG-WAD,,0,HEDK,DAK,,,,,50,2008-06-13T14:30:04+00:00
+3190,HEKG,small_airport,"El Kharga Airport",25.473600387573242,30.590700149536133,192,AF,EG,EG-WAD,,0,HEKG,UVL,,,,,50,2008-06-13T14:30:04+00:00
+30660,EG-AUE,small_airport,"Abu Rudeis Airport",28.89900016784668,33.20249938964844,39,AS,EG,EG-JS,"Abu Rudeis",0,,AUE,,,,,50,2009-08-06T10:55:38+00:00
+2355,HE12,small_airport,"Inshas Air Base",30.332373,31.448109,115,AF,EG,EG-SHR,Inshas,0,,,,,,,50,2016-02-10T22:22:30+00:00
+2383,HE44,small_airport,"Al Ismailiyah Airport",30.598800659179688,32.23460006713867,39,AF,EG,EG-IS,Ismailia,0,,,,,,,50,2008-08-16T07:44:07+00:00
+2374,HE34,small_airport,"Kibrit Airport",30.24690055847168,32.4922981262207,22,AF,EG,EG-SUZ,Kibrit,0,,,,,,,50,2008-08-16T07:47:36+00:00
+2366,HE25,small_airport,"El Minya Airport",28.1012992859,30.730300903299998,121,AF,EG,EG-MN,Minya,0,HEMN,EMY,,,,HE25,50,2014-05-10T00:15:03+00:00
+2380,HE40,small_airport,"Sidi Barrani Airport",31.466600418091,25.878000259399,320,AF,EG,EG-MT,"Sidi Barrani",0,,SQK,,,,HE40,50,2016-01-22T05:49:59+00:00
+32285,HE24,small_airport,"Siwa Oasis North Airport",29.345500946044922,25.50670051574707,330,AF,EG,EG-MT,Siwa,0,HE24,SEW,,,,,50,2008-11-08T15:54:04+00:00
+328135,EG-0005,large_airport,Cairo,0,0,,AF,EG,EG-C,,1,,,,,,,0,2018-05-31T13:10:08+00:00
+300893,HEMK,medium_airport,"Sohag International Airport",26.342778,31.742778,310,AF,EG,EG-SHG,Sohag,1,HESG,HMB,,,http://en.wikipedia.org/wiki/Sohag_International_Airport,"Mubarak International Airport",0,2016-07-14T15:29:01+00:00
