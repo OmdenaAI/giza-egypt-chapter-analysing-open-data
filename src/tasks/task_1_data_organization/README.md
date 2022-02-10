@@ -36,6 +36,13 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 - [Digital Earth Africa](https://explorer.digitalearth.africa/products) -  Digital Earth Africa hosts a repository of Earth observation datasets spanning continental Africa and a set of tools to view and analyse that data.
 
+- [Google Trends](https://trends.google.com/trends/trendingsearches/daily?geo=EG) - The most searched words that Egyptians do on google.
+
+- [UN data - from United Nation](http://data.un.org/Search.aspx?q=egypt) - Popular statistical about Egypt.
+
+- [Egypt Links](https://sites.google.com/site/misraffairs/Home/egypt_links#TOC-2) - Essential links for researchers in Egyptian affairs.
+
+- [OECD Data](https://data.oecd.org/searchresults/?q=egypt) - Several datasets about Egypt.
 
 ### Climate and Other Geographical Datasets
 
@@ -64,3 +71,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [World Bank - Egypt Data](https://data.worldbank.org/country/egypt-arab-rep) - This website contain financial and statistical data about egypt
 
 - [Egypt - Energy and Mining](https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-egypt-arab-rep) - Dataset about Egypt's Energy access and expenditure.
+
+- [The Egyption Exchange](https://www.egx.com.eg/ar/etfspr.aspx) - Information about the Egyptian Stock Exchange.
