@@ -7,6 +7,7 @@ Dataset ideas currently available:
 * Landmark Recognition
 * Egyptian Dialect Tweets
 * Sentiment Analysis on Egyptian Book Reviews 
+* Real Estate on Egypt
 * Add your ideas!
 
 Datasts to start collecting:
