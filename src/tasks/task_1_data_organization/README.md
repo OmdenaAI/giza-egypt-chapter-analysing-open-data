@@ -36,13 +36,18 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 - [Digital Earth Africa](https://explorer.digitalearth.africa/products) -  Digital Earth Africa hosts a repository of Earth observation datasets spanning continental Africa and a set of tools to view and analyse that data.
 
+- [WHO - EMRO](http://www.emro.who.int/entity/statistics/statistics.html) - Repository of various Healthcare Datasets about Middle East and North African Countries.
+
+- [Suezcanal] (https://www.suezcanal.gov.eg/English/Downloads/Pages/default.aspx) - The site has a number of reports about Suez Canal's Navigation, Procrements, Transit Forms, Shipyward and etc. The reports are all in PDF documents. The site also host a list of Vizualizations for respective statistics.
+
+- [OECD Data](https://data.oecd.org/searchresults/?q=egypt) - Several datasets about Egypt.
+
 - [Google Trends](https://trends.google.com/trends/trendingsearches/daily?geo=EG) - The most searched words that Egyptians do on google.
 
 - [UN data - from United Nation](http://data.un.org/Search.aspx?q=egypt) - Popular statistical about Egypt.
 
 - [Egypt Links](https://sites.google.com/site/misraffairs/Home/egypt_links#TOC-2) - Essential links for researchers in Egyptian affairs.
 
-- [OECD Data](https://data.oecd.org/searchresults/?q=egypt) - Several datasets about Egypt.
 
 ### Climate and Other Geographical Datasets
 
@@ -52,6 +57,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 ### Healthcare Datasets
 
 - [Hepatitis C Virus for Egyptian Patients](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients/) - Egyptian patients who underwent treatment dosages for HCV about 18 months.
+
 
 ### Cultural and Linguistic Datasets
 
@@ -65,6 +71,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Egypt - Population Density](https://data.world/worldpop/904bdd79-99f5-410f-8a25-386e202a5580) - Population density data from 2016-2020 (Geotiff and ASCII XYZ format).
 
 - [Egypt Population (1950-2018)](https://www.kaggle.com/kareem3egm/egypt-population-from-1950-to-2018) - Egypt population from 1950 to 2018.
+
 
 ### Economic Datasets
 
