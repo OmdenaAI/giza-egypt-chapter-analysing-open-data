@@ -63,6 +63,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 ### Population Datasets
 
 - [Egypt - Population Density](https://data.world/worldpop/904bdd79-99f5-410f-8a25-386e202a5580) - Population density data from 2016-2020 (Geotiff and ASCII XYZ format).
+- [Egypt Population (1950-2018)](https://www.kaggle.com/kareem3egm/egypt-population-from-1950-to-2018) - Egypt population from 1950 to 2018 
 
 ### Economic Datasets
 
