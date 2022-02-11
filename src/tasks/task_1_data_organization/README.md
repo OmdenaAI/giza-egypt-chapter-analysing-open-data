@@ -38,7 +38,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 - [WHO - EMRO](http://www.emro.who.int/entity/statistics/statistics.html) - Repository of various Healthcare Datasets about Middle East and North African Countries.
 
-- [Suezcanal] (https://www.suezcanal.gov.eg/English/Downloads/Pages/default.aspx) - The site has a number of reports about Suez Canal's Navigation, Procrements, Transit Forms, Shipyward and etc. The reports are all in PDF documents. The site also host a list of Vizualizations for respective statistics.
+- [Suezcanal](https://www.suezcanal.gov.eg/English/Downloads/Pages/default.aspx) - The site has a number of reports about Suez Canal's Navigation, Procrements, Transit Forms, Shipyward and etc. The reports are all in PDF documents. The site also host a list of Vizualizations for respective statistics.
 
 - [OECD Data](https://data.oecd.org/searchresults/?q=egypt) - Several datasets about Egypt.
 
