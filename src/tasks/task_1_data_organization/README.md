@@ -75,3 +75,5 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [Egypt - Energy and Mining](https://data.humdata.org/dataset/world-bank-energy-and-mining-indicators-for-egypt-arab-rep) - Dataset about Egypt's Energy access and expenditure.
 
 - [The Egyption Exchange](https://www.egx.com.eg/ar/etfspr.aspx) - Information about the Egyptian Stock Exchange.
+
+- [Egypt Stock Market data (EGX 30)](https://www.kaggle.com/moaztaha/egypt-stock-market-data-egx-30) - The EGX30 stock data from May 2010 to Sep 2020 
