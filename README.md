@@ -4,6 +4,7 @@
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
+- 
     - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
     - Create a README.md with a table containing information table about all contributions for the task.
 - If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
