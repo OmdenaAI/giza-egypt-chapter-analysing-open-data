@@ -47,6 +47,7 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 - [UN data - from United Nation](http://data.un.org/Search.aspx?q=egypt) - Popular statistical about Egypt.
 
 - [Egypt Links](https://sites.google.com/site/misraffairs/Home/egypt_links#TOC-2) - Essential links for researchers in Egyptian affairs.
+- [Suicides in Egypt](https://www.kaggle.com/peterbushra/suicides-in-egypt) - Suicides in Egypt between 2011 to 2017
 
 
 ### Climate and Other Geographical Datasets
