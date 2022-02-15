@@ -12,7 +12,8 @@ Dataset ideas currently available:
 * Add your ideas!
 
 Datasts to start collecting:
-* Work in progress
+* Accident and Conflict
+* Reviews on Egyptians books
 
 Label progress:
 * Work in progress
