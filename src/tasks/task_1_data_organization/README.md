@@ -52,6 +52,8 @@ This is an initial outline: Dataset categories, descriptions, etc. can be decide
 
 ### Climate and Other Geographical Datasets
 
+- [Egypt, Arab Rep. - Climate Change](https://data.humdata.org/dataset/world-bank-climate-change-indicators-for-egypt-arab-rep) - Climate Change Indicators of Egypt
+
 - [Temperature in Central North of Egypt](https://figshare.com/articles/dataset/Central_North_of_Egypt_CNE_Maximum_and_Minimum_Temperature_Gridded_Datasets/7504232) - Contains .nc files for data on Temperature.
 
 
