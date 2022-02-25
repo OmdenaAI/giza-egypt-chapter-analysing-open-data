@@ -16,12 +16,6 @@ import os
 import pickle
 
 
-#options = Options()
-#options.add_argument('start-maximized')
-#options.add_argument('disable-infobars')
-#driver = webdriver.Chrome(chrome_options=options, executable_path=r'C:\WebDrivers\chromedriver.exe')
-#driver.get('https://www.google.com/')
-
 options = webdriver.ChromeOptions()
 options.add_experimental_option("useAutomationExtension", False)
 options.add_experimental_option("excludeSwitches",["enable-automation"])
@@ -67,51 +61,35 @@ def get_images_from_google(wd, delay, max_images, url):
 	return image_urls
 
 
-def download_image(download_path, url, file_name):
-	try:
-		image_content = requests.get(url).content
-		image_file = io.BytesIO(image_content)
-		image = Image.open(image_file)
-		file_path = os.path.join(download_path,file_name)
-
-		with open(file_path, "wb") as f:
-			image.save(f, "JPEG")
-
-		print("Success")
-	except Exception as e:
-		print('FAILED -', e)
-
-
 
 path_landmk = 'C:\\Users\\htree\\Documents\\giza-egypt-chapter-analysing-open-data\\src\\tasks\\task_3_data_collection\\Landmarks'
+
+
 
 pickle_off = open ("landmarks_search_urls.txt", "rb")
 landmarks_list = pickle.load(pickle_off)
 
-for landmark, engine_url in landmarks_list[37:]:
-    # create diretory for landmark images
-    os.mkdir(landmark)
-    
-    # set path name 
-    path_landmark = os.path.join(path_landmk,landmark)
-    
+for landmark, engine_url in landmarks_list:
+
+    image_url_dict = {}
     #wait before scraping again
     time.sleep(10)
-    
+
     print('Now scraping {} images'.format(landmark))
-    
+
     # get urls of many images for choosen landmark
     urls = get_images_from_google(wd, 2, 100, engine_url)
-    images_url_dict = {}
-    
+
     # download images using collected urls
     for i, url in enumerate(urls):
-        print('image '+str(i) + ' '+url)
+        print('image '+str(i) +' '+url)
         image_url_dict[i] = url
-        download_image(path_landmark, url, str(i) + ".jpg")
         
-    
-    #number of successfully downloaded files
-    print('saved {} images '.format(len(os.listdir(path_landmark))))
-    
+        
+    file_name = landmark+'-images_url.pkl'
+    print(file_name)
+    #print(image_url_dict)
+    with open(file_name,'wb') as f:
+        pickle.dump(image_url_dict,f)
+        
 wd.quit()
