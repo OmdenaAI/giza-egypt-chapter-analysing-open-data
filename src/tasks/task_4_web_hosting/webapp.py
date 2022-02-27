@@ -285,24 +285,4 @@ if (categories=="Politics" and politics == "politics Review analysis"):
         #Add data set here
         st.subheader("Exploratory Data Analysis")
         
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
