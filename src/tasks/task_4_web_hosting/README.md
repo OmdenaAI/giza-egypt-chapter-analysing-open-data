@@ -1,3 +1,5 @@
 # Web Hosting
 ### Libraries Used
-> streamlit
+> streamlit - API
+> Opencv - Resize Images
+> urllib - Request images from web and gthub
