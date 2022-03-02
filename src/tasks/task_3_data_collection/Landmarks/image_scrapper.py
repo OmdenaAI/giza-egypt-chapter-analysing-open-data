@@ -3,6 +3,7 @@ The code below comes is slight adjustment from code by Tech with Tim
 https://github.com/techwithtim/Image-Scraper-And-Downloader/blob/main/tutorial.py
 Associated with https://www.youtube.com/watch?v=NBuED2PivbY
 Tim's tutorial is great. Moreover, look for links below video 
+
 '''
 
 from selenium import webdriver
@@ -15,12 +16,6 @@ import time
 import os
 import pickle
 
-
-#options = Options()
-#options.add_argument('start-maximized')
-#options.add_argument('disable-infobars')
-#driver = webdriver.Chrome(chrome_options=options, executable_path=r'C:\WebDrivers\chromedriver.exe')
-#driver.get('https://www.google.com/')
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("useAutomationExtension", False)
@@ -85,10 +80,10 @@ def download_image(download_path, url, file_name):
 
 path_landmk = 'C:\\Users\\htree\\Documents\\giza-egypt-chapter-analysing-open-data\\src\\tasks\\task_3_data_collection\\Landmarks'
 
-pickle_off = open ("landmarks_search_urls.txt", "rb")
+pickle_off = open ("landmarks_search_urls.pkl", "rb")
 landmarks_list = pickle.load(pickle_off)
 
-for landmark, engine_url in landmarks_list[37:]:
+for landmark, engine_url in landmarks_list[36:]:
     # create diretory for landmark images
     os.mkdir(landmark)
     
@@ -107,8 +102,14 @@ for landmark, engine_url in landmarks_list[37:]:
     # download images using collected urls
     for i, url in enumerate(urls):
         print('image '+str(i) + ' '+url)
-        image_url_dict[i] = url
+        images_url_dict[i] = url
         download_image(path_landmark, url, str(i) + ".jpg")
+    
+    file_name = landmark+'-images_url.pkl'
+    print(file_name)
+    #print(image_url_dict)
+    with open(file_name,'wb') as f:
+        pickle.dump(images_url_dict,f)
         
     
     #number of successfully downloaded files
