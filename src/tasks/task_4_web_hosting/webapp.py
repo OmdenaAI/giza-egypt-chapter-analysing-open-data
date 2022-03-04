@@ -351,7 +351,25 @@ if (categories=="Politics" and politics == "politics Review analysis"):
         st.subheader("Data Set")
         data_link5 = "https://drive.google.com/file/d/17meHlOJD9pO1z0uUeNT7H0I5qCvYcb5c/view?usp=sharing"
         st.dataframe(data_reader(data_link5))
-        st.subheader("Exploratory Data Analysis")
+        st.subheader("Topic Modeling")
+        timg1 = "https://drive.google.com/file/d/1HvlmVgoMQbmnLXOzWfM9B_EVDvYnuQ-H/view?usp=sharing"
+        timg2 = "https://drive.google.com/file/d/1Lyvt_GvHUPfCrZYKJ51yw4w8MAQq0mC5/view?usp=sharing"
+        path2 = 'https://drive.google.com/uc?export=download&id='+timg1.split('/')[-2]
+        path3 = 'https://drive.google.com/uc?export=download&id='+timg2.split('/')[-2]
+        st.image(path2, caption="Figure 1.1: Intertopic Distance Map ")
+        st.image(path3, caption="Figure 1.2: Intertopic Distance Map")
+        t1 = "The textual data visualization shows the top ten most frequently occurring words in the data."
+        t2 = "Topic 1: These are the following issues that have been faced by Egypt in recent years in terms of the discussion on illegal migration, sustainable developments and projects that have been done, and the bilateral talks between Lebanon and Egypt on strengthening their relationship."
+        t3 = "Topic 2: This shows that many Egyptian journalists have been released from prison. It pays forward to the freedom of the press and getting back again to their respective families."
+        t4 = "Topic 3: This tackles the Italian invasion of Egypt and goes forward to the terrorist attacks that resulted in great terror for the Egyptians. Furthermore, the church has been targeted by Chinese attacks and condemned."
+        t5 = "Topic 4: This also shows the following terms with regard to the death sentence for the individuals who have been found guilty of their acts of protest and murder."
+        t6 = "Topic 5 focuses on the issue of attacks by African and French people."
+        t7 = "Topic 6: Many journalists have been sentenced to imprisonment, thus expressing a great deal in law to approve of the freedom of the press."
+        t8 = "Topic 7 focuses on the Rafah border crossing, which happened recently in Egypt."
+        t9 = "Topic 8: Bringing the discussion to a close and offering prayers and messages to those who had died"
+        t10 = "Topic 9: This shows that many of the issues, such as combatting attacks and other policies, have been affected in many schools in Egypt."
+        t11 = "Topic 10: This topic focuses on the impact and state of emergency on COVID-19."
+        expander(1,t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11)
 
 
 if (categories == "Food and Beverages" and food == "Food Data"):
