@@ -1,0 +1,46 @@
+Top Python Libraries to Automate Your Exploratory Data Analysis Process
+
+https://forum.freecodecamp.org/t/top-python-libraries-to-automate-your-exploratory-data-analysis-process/488940
+*******************************
+*******************************
+*******************************
+Data Analysis:
+Simple tutorial:
+https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
+More complicated example:
+https://www.kaggle.com/datafan07/what-takes-to-be-a-data-scientist-story-of-robert
+Data Scraping tutorial:
+https://oxylabs.io/blog/python-web-scraping
+*******************************
+*******************************
+*******************************
+
+
+MediumMedium
+Exploratory Data Analysis(EDA): Python
+Learning the basics of Exploratory Data Analysis using Python with Numpy, Matplotlib, and Pandas.
+https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
+*******************************
+*******************************
+*******************************
+You can check the GitHub repository of a previous challenge similar to this one for inspiration:
+https://github.com/OmdenaAI/omdena-egypt-freshwater
+*******************************
+*******************************
+*******************************
+
+kaggle.comkaggle.com
+What Takes to be a Data Scientist: Story of Robert
+Explore and run machine learning code with Kaggle Notebooks | Using data from multiple data sources
+https://www.kaggle.com/datafan07/what-takes-to-be-a-data-scientist-story-of-robert
+
+oxylabs.io
+Python Web Scraping Tutorial: Step-By-Step
+Python Web Scraping Tutorial: a step-by-step guide. Suitable for both beginners and experienced coders. Find out how to get started in the web scraping industry
+https://oxylabs.io/blog/python-web-scraping
+*******************************
+*******************************
+*******************************
+
+GitHub - OmdenaAI/omdena-egypt-freshwater: AI Techniques to Reduce the Wasting of Freshwater
+AI Techniques to Reduce the Wasting of Freshwater. Contribute to OmdenaAI/omdena-egypt-freshwater development by creating an account on GitHub. (62 kB)
